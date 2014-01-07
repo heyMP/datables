@@ -10,10 +10,9 @@ that column.  This gives you the ability to display the title in the `content`
 property a psuedo element of each `td`.
 
 This responsive table technique was shared by Chris Coyier of CSS Tricks.
-[http://css-tricks.com/responsive-data-tables](http://css-tricks.com/responsive-data-tables)
+[Responsive Data Tables](http://css-tricks.com/responsive-data-tables)
 
-Credit to [http://css-tricks.com/responsive-data-tables/#comment-785289](Stanimir Genov)
-for the javascript solution.
+Credit to [Stanimir Genov](http://css-tricks.com/responsive-data-tables/#comment-785289) for the javascript solution.
 
 See my CodePen example:
 [http://codepen.io/heyMP/pen/8146f75dcc3b5a593d784b7a77edf353](http://codepen.io/heyMP/pen/8146f75dcc3b5a593d784b7a77edf353)
