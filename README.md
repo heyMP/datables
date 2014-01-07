@@ -9,6 +9,9 @@ in the `th` element, and adds it to a data attribute on all of the `td` elements
 that column.  This gives you the ability to display the title in the `content`
 property a psuedo element of each `td`.
 
+See my CodePen example:
+[http://codepen.io/heyMP/pen/8146f75dcc3b5a593d784b7a77edf353](http://codepen.io/heyMP/pen/8146f75dcc3b5a593d784b7a77edf353)
+
 ###Example
 Before
 
