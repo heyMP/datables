@@ -15,7 +15,6 @@
 
       this.each(function() {
         var table = $(this);
-        var column = 0;
 
         table.find('tbody td').each(function() {
           var td = $(this);
